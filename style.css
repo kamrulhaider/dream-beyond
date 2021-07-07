@@ -42,3 +42,6 @@ body {
   padding: 0 20px;
   border-radius: 50px;
 }
+audio {
+  display: none;
+}
